@@ -1,1 +1,1 @@
-# Veri
+# Veri Organizasyonu Ödevleri
