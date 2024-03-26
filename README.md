@@ -1,1 +1,1 @@
-# Veri-Organizasyonu-devler
+# Veri
